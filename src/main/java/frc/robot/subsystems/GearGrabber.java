@@ -46,6 +46,5 @@ public class GearGrabber {
         AQUIRE = grabber down, motor speed = -1
         IDLE = grabber up, motor speed = -1
         */ 
-        
     }
 }
